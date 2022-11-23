@@ -1,1 +1,3 @@
-# shopping-cart1
+### Shopping Cart Exercise
+
+First part
